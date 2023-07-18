@@ -1,1 +1,1 @@
-* * sics-bo-test
+# sics-bo-test
